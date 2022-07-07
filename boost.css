@@ -1,0 +1,34 @@
+.top{
+    border: 1px solid red;
+    background-image: url("donation13.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top-div{
+    text-align: center;
+}
+.text{
+    color: aliceblue;
+    font-size: 55px;
+    word-spacing: 8px;
+
+}
+.p-text{
+    color:red;
+}
+.bnt{ 
+    padding: 20px 50px;
+    border: none;
+    background-image: -moz-linear-gradient(donation2.jpg);
+   border-radius:15px;
+   cursor:pointer;
+   color:#fff;
+   font-size:20px;
+   font-weight:bold;
+}
